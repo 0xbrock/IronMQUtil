@@ -1,5 +1,5 @@
 ﻿/*
- * A simple utility to help remove messages from a queue.
+ * A simple utility to help remove messages from an Iron.io message queue
  */
 
 /*

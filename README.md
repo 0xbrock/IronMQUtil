@@ -1,7 +1,7 @@
 Iron.io Message Queue Utility
 ========================
 
-A utility to help clear out messages from a queue.  I had an issue where a message would get stuck on the queue.  So I whipped up this commandline utility to dequeue and delete enqueued items.  
+A simple utility to help remove messages from an Iron.io message queue.  I had an issue where a message would get stuck on the queue.  So I whipped up this commandline utility to dequeue and delete enqueued items.  
 
 ## Setup
 In the directory with the `app.js` file:
