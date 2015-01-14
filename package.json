@@ -1,0 +1,13 @@
+{
+  "name": "IronMQUtil",
+  "version": "0.0.0",
+  "description": "IronMQUtil",
+  "main": "app.js",
+  "author": {
+    "name": "brock",
+    "email": ""
+  },
+  "dependencies": {
+    "iron_mq": "^0.2.3"
+  }
+}
